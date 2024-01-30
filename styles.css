@@ -1,0 +1,25 @@
+body {
+    font-family: monospace;
+    background-color:#F9F5EB;
+    color: #002B5B;
+    text-align: center;
+}
+
+div.container {
+    text-align: center;
+    color: #002B5B;
+}
+
+ul.UL {
+    display: inline-block;
+    text-align: left;
+    color: #002B5B;
+}
+
+a:link {
+    color: #002B5B;
+}
+
+a:visited {
+    color: #002B5B;
+}
